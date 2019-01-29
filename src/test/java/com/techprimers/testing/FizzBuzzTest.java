@@ -8,6 +8,7 @@ class FizzBuzzTest {
 
     @BeforeEach
     public void setUp() {
+    	
         fB = new FizzBuzz();
     }
 
